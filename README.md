@@ -48,6 +48,6 @@ This micro-project demonstrated the effective use of the VirusTotal API for malw
 - Data collection and interpretation
 
 
-## Watch the video on youtube or [View on LinkedIn](https://www.linkedin.com/posts/kenneth-nweke-4a9456185_virus-total-api-usage-activity-7219619424511606784-WvJT?utm_source=share&utm_medium=member_desktop)
-[![Link to YouTube Video](https://img.youtube.com/vi/g3N7bcDuzYU/0.jpg)](https://www.youtube.com/watch?v=g3N7bcDuzYU)
+## Watch the video on YouTube or [View on LinkedIn](https://www.linkedin.com/posts/kenneth-nweke-4a9456185_virus-total-api-usage-activity-7219619424511606784-WvJT?utm_source=share&utm_medium=member_desktop)
+[![Link to YouTube Video](https://img.youtube.com/vi/hxm0k6o5SHo/0.jpg)](https://www.youtube.com/watch?v=hxm0k6o5SHo)
 
